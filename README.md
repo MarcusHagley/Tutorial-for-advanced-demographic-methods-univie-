@@ -29,6 +29,11 @@ Each week, you will learn and practice any of the following:
    - Leslie matrix population projections  
    - Lee–Carter mortality forecasting  
    - Stable population theory and Kitagawa decomposition
+  
+ 6. **Decomposition**  
+   - Intuitive knowledge about decomposition
+   - Kitagawas decomposition
+
 
 ---
 
