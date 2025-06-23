@@ -34,3 +34,14 @@ Each week, you will learn and practice:
 
 ## 📂 Repository Structure
 
+├── data/ # Raw and cleaned example datasets
+├── scripts/ # Weekly tutorial scripts
+│ ├── 01_Intro_to_R.R
+│ ├── 02_Population_Pyramids.R
+│ ├── 03_Age_Specific_Rates.R
+│ ├── 04_Life_Table_Construction.R
+│ ├── 05_Lexis_Diagrams_APC.R
+│ └── 06_Projections_and_Forecasting.R
+├── outputs/ # Example figures and tables
+├── exercises/ # Homework assignments
+└── README.md # This file
