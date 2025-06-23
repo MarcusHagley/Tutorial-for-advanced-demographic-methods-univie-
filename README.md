@@ -6,7 +6,7 @@ Welcome to the **Tutorial for Advanced Demographic Methods** repository! This co
 
 ## Course Overview
 
-Each week, you will learn and practice:
+Each week, you will learn and practice any of the following:
 
 1. **Foundations of R and Data Wrangling**  
    - Basic data structures (vectors, data frames, lists)  
