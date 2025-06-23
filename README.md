@@ -37,6 +37,25 @@ Each week, you will learn and practice any of the following:
 
 ---
 
+## Learning Outcomes
+
+The learning outcomes for the course were: By the end of this tutorial series, you will be able to:
+
+ - Import & tidy demographic data in R, handling missing values and reshaping datasets for analysis.
+
+ - Compute demographic indicators, including age‑specific rates, life‑table functions, and population change decomposition.
+
+ - Visualize demographic patterns clearly—creating population pyramids, rate‑over‑age/time plots, Lexis diagrams, and decomposition bar charts with ggplot2.
+
+ - Apply forecasting techniques, fitting Lee‑Carter or time‑series models to project mortality, fertility, and population.
+
+ - Write well‑commented, reproducible R scripts that follow best practices for clarity and code organization.
+
+
+
+
+---
+
 ## 📂 Repository Structure
 
 ```text
